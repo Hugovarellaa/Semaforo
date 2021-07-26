@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Hugovarellaa/Tabuada
-$ cd Tabuada
+$ git clone https://github.com/Hugovarellaa/Semaforo
+$ cd Semaforo
 ```
 
 Para iniciá-lo, siga os passos abaixo:
